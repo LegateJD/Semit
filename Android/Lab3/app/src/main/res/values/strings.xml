@@ -1,0 +1,14 @@
+<resources>
+    <!-- titles -->
+    <string name="app_name">Lab №3</string>
+
+    <!-- hints -->
+    <string name="hint_question">Введите свой вопрос</string>
+    <string name="hint_answer">Введите вариант ответа</string>
+
+    <!-- buttons -->
+    <string name="button_save_question">Сохранить</string>
+    <string name="button_answer_question">Ответить</string>
+    <string name="button_delete_question">Сбросить</string>
+
+</resources>

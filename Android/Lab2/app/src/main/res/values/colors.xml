@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme -->
+    <color name="colorPrimary">#0B4E10</color>
+    <color name="colorPrimaryDark">#003300</color>
+
+    <!-- text -->
+    <color name="colorText">#282E27</color>
+    <color name="colorTextLight">#9EBF9E</color>
+    <color name="colorTextDark">#070707</color>
+    <color name="colorTextVariant">#FFFFFF</color>
+    <color name="colorTextAttention">#454241</color>
+
+    <!-- background -->
+    <color name="colorBackground">#FEFFFE</color>
+
+    <!-- dividers -->
+    <color name="colorDivider">#FFFFFF</color>
+
+    <!-- buttons -->
+    <color name="colorButton">#CCFF90</color>
+    <color name="colorButtonDark">#454745</color>
+
+    <!-- icons -->
+    <color name="colorIcon">#d6d7d7</color>
+
+</resources>
